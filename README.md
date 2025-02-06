@@ -23,6 +23,6 @@ This repository is organized with individual folders for each team member to man
 * `Stiven`
 * `Abby`
 * `John`
-* `Charles'
-* `Miracle'
+* `Charles`
+* `Miracle`
 ...
