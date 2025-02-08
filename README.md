@@ -1,4 +1,4 @@
-# DATA6550_Group5
+# DATA6550_Bias (group 5)
 Hi John, Miracle, Abby and Stiven: this is the class code repo for DATA6550 Group5
 
 here is some quick feedback in case you haven't used Github previously. 
