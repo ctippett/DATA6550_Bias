@@ -5,6 +5,10 @@ Authors: Miracle Awonuga, Stiven LaVrenov, Abigail Roberts, and Charles Tippett
 ## Dataset
 Our dataset is diabetes_data.csv in the Data folder. The different data values can be found below. The dataset comes from the class DATA 6500 from Fall of 2024, taught by Dr. Liu.
 
+The dataset used in this project represents 10 years (1999-2008) of clinical care at 130 US
+hospitals and integrated delivery networks. It includes over 100,000 hospital admissions from patients
+with diabetes, covered across 50 states in the USA.
+
 1. encounter id: Integer unique identifier of an encounter.
 2. patient nbr: Integer unique identifier of a patient.
 3. race: Race of the patient, represented as a string (e.g., Caucasian, African American).
