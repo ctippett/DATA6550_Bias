@@ -30,9 +30,8 @@ encounter.
 16. diag 2: Secondary diagnosis coded as an ICD-9 code.
 17. diag 3: Additional secondary diagnosis coded as an ICD-9 code.
 18. number diagnoses: Integer number of diagnoses entered in the system for the encounter.
-19. max glu serum: Maximum glucose serum test result during the encounter (e.g., None, Norm,
->200, >300).
-20. A1Cresult: Result of the A1C test (e.g., None, Norm,>7, >8).
+19. max glu serum: Maximum glucose serum test result during the encounter (e.g., None, Norm, >200, >300).
+20. A1Cresult: Result of the A1C test (e.g., None, Norm, >7, >8).
 21. metformin: Status of Metformin medication (e.g., No, Up, Down, Steady).
 22. repaglinide, nateglinide, chlorpropamide, glimepiride, acetohexamide, glipizide, glyburide, tolbutamide, pioglitazone, rosiglitazone, acarbose, miglitol, troglitazone, tolazamide, examide, citoglipton, insulin, glyburide-metformin, glipizide-metformin,
 glimepiride-pioglitazone, metformin-rosiglitazone, metformin-pioglitazone: Status of
